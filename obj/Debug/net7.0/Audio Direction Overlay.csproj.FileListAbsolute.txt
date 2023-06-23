@@ -1,0 +1,22 @@
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\bin\Debug\net7.0\Audio Direction Overlay.exe
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\bin\Debug\net7.0\Audio Direction Overlay.deps.json
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\bin\Debug\net7.0\Audio Direction Overlay.runtimeconfig.json
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\bin\Debug\net7.0\Audio Direction Overlay.dll
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\bin\Debug\net7.0\Audio Direction Overlay.pdb
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\bin\Debug\net7.0\NAudio.dll
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\bin\Debug\net7.0\NAudio.Asio.dll
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\bin\Debug\net7.0\NAudio.Core.dll
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\bin\Debug\net7.0\NAudio.Midi.dll
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\bin\Debug\net7.0\NAudio.Wasapi.dll
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\bin\Debug\net7.0\NAudio.WinMM.dll
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\obj\Debug\net7.0\Audio Direction Overlay.csproj.AssemblyReference.cache
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\obj\Debug\net7.0\Audio Direction Overlay.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\obj\Debug\net7.0\Audio Direction Overlay.AssemblyInfoInputs.cache
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\obj\Debug\net7.0\Audio Direction Overlay.AssemblyInfo.cs
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\obj\Debug\net7.0\Audio Direction Overlay.csproj.CoreCompileInputs.cache
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\obj\Debug\net7.0\Audio Direction Overlay.csproj.CopyComplete
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\obj\Debug\net7.0\Audio Direction Overlay.dll
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\obj\Debug\net7.0\refint\Audio Direction Overlay.dll
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\obj\Debug\net7.0\Audio Direction Overlay.pdb
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\obj\Debug\net7.0\Audio Direction Overlay.genruntimeconfig.cache
+c:\Users\flame\OneDrive - Cobb County School District\Programming\C#\Audio Direction Overlay\obj\Debug\net7.0\ref\Audio Direction Overlay.dll
